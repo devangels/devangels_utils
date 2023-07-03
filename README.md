@@ -8,7 +8,7 @@
 
 ---
 
-This utilility package contains some of our most useful widgets which we frequently make use at [DevAngels](https://www.devangels.london/) to make our lives easier. 
+This utility package contains some of our most useful widgets which we frequently make use at [DevAngels](https://www.devangels.london/) to make our lives easier. 
 
 
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg

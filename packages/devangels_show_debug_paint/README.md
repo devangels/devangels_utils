@@ -10,6 +10,7 @@ An open-source widget filled with ✨ brought to you by the [DevAngels][devangel
 
 A debug widget which paints outlines for a single widget and it's child subtree.   
 
+<img src="https://raw.githubusercontent.com/devangels/devangels_utils/main/packages/devangels_show_debug_paint/screenshots/example_show_debug_print.png?token=GHSAT0AAAAAACBMIPIWXM43IORAOOP2YKZOZFDDKWQ" width=20% height=20%>
 
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
