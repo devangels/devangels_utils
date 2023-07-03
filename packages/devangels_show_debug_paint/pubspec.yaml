@@ -1,4 +1,4 @@
-name: devangels_child_builder
+name: devangels_show_debug_paint
 description: A builder which allows for the rebuilding of the UI when dependency changes but not the child passed in
 version: 0.0.1
 
