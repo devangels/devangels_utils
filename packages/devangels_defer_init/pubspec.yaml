@@ -1,0 +1,21 @@
+name: devangels_defer_init
+description: A widget which defers the initialization of the UI until a background service has finished
+version: 0.0.1
+homepage: https://github.com/devangels/devangels_utils/tree/main/packages/devangels_defer_init
+repository: https://github.com/devangels/devangels_utils/tree/main/packages/devangels_defer_init
+issue_tracker: https://github.com/devangels/devangels_utils/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:

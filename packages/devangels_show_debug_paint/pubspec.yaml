@@ -1,9 +1,12 @@
 name: devangels_show_debug_paint
-description: A builder which allows for the rebuilding of the UI when dependency changes but not the child passed in
-version: 0.0.1
+description: A debug widget which paints outlines for a single widget and it's child subtree.
+version: 0.0.4
+homepage: https://github.com/devangels/devangels_utils/tree/main/packages/devangels_show_debug_paint
+repository: https://github.com/devangels/devangels_utils/tree/main/packages/devangels_show_debug_paint
+issue_tracker: https://github.com/devangels/devangels_utils/issues
 
 environment:
-  sdk: '>=3.0.5 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
